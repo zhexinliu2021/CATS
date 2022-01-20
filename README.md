@@ -30,4 +30,4 @@ To make it clear here, you need to submit
 
 
 # Model validation schema 
-![alt text] (RM.photos/CV.png?raw=true "Cross validation schema" )
+![alt text](RM.photos/CV.png?raw=true "Cross validation schema" )
