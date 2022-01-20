@@ -31,7 +31,7 @@ To make it clear here, you need to submit
 
 # Results
 * `run_GBM.py`, `run_RF.py` and `run_XGBoost.py` are implementation of the three out of four models our team created by Zhexin. 
-* `gridsch.py is the utility fountion library`   
+* `gridsch.py` is the utility fountion library. 
 * For detailed methods and model training and results, please refer to `CATS_report/CATS_Assignment_group9.pdf`
 
 
