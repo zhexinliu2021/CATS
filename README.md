@@ -29,5 +29,9 @@ To make it clear here, you need to submit
 2) an estimate for the number of correctly labeled samples (out of 57).
 
 
-# Model validation schema 
-![alt text](RM.photos/CV.png?raw=true "Cross validation schema" )
+# Results
+* `run_GBM.py`, `run_RF.py` and `run_XGBoost.py` are implementation of the three out of four models our team created by Zhexin. 
+* `gridsch.py is the utility fountion library`   
+* For detailed methods and model training and results, please refer to `CATS_report/CATS_Assignment_group9.pdf`
+
+
