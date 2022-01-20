@@ -5,9 +5,9 @@ In this group assignment, you need to train a classifier that is able to predict
 
 ## Background
 Breast cancer is a heterogeneous disease and classification of breast cancer tumors in their molecular subtypes has important implications for the treatment and prognosis. Three receptors play a pivotal role in these subtypes: the Estrogen Receptor (ER), Progesterone Receptor (PR) and Human Epidermal growth factor Receptor 2 (HER2). After removal of the tumor, the pathology department of the hospital tests these samples for presence of ER, PR and HER2. The three main subtypes in breast cancer on which the treatment decision will be based are:
-• HER2 positive: HER2+
-• Hormone receptor positive (HR+): ER+ and/or PR+, and HER2-
-• Triple negative (TN): ER-, PR- and HER2-
+* HER2 positive: HER2+
+* Hormone receptor positive (HR+): ER+ and/or PR+, and HER2-
+* Triple negative (TN): ER-, PR- and HER2-
 Each of the three subtypes reacts differently to different types of treatment.
 
 ## Data
@@ -28,3 +28,6 @@ To make it clear here, you need to submit
 1) the predicted labels for each of the samples (you need to follow the file format on Canvas) and
 2) an estimate for the number of correctly labeled samples (out of 57).
 
+
+# Model validation schema 
+![alt text] (RM.photos/CV.png?raw=true "Cross validation schema" )
